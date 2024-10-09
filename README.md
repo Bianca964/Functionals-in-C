@@ -1,14 +1,5 @@
 # Funcționale în C
 
-**Deadline soft**: 14 aprilie 2024, 11:55PM
-
-**Deadline hard**: 19 aprilie 2024, 11:55PM
-
-**Responsabili**
-
-* [Robert Grancsa](robert.grancsa2002@gmail.com)
-* [Timotei Daraban](darabantimoteisiceva@gmail.com)
-
 ## Introducere
 
 Aflând de la studenții de anul 2 de o materie interesantă, [Paradigme de Programare](https://ocw.cs.pub.ro/courses/pp/24/laboratoare/racket/intro), despre care se zvonește că se trece greu, bobocii au devenit interesați de programarea funcțională.
